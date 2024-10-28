@@ -15,7 +15,7 @@ public class Main {
         } else if (a>=60) {
             System.out.println("D");
         } else {
-            System.out.println("E");
+            System.out.println("F");
         }
 
     }
