@@ -14,7 +14,7 @@ public class Main {
             System.out.println("Good");
         } else if (a.equals("C")) {
             System.out.println("Usually");
-        } else if (a.equals("d")) {
+        } else if (a.equals("D")) {
             System.out.println("Effort");
         } else {
             System.out.println("Failure");
